@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Angie Karola Tejeda
 
-🎯 **Backend Developer | Java | Spring Boot | Microservices | SQL | Docker**
+🎯 **Backend Developer | Java | Spring Boot | Microservices | SQL **
 
 I’m a backend engineer with over 4 years building scalable and secure systems for the banking industry.  
 Passionate about **clean architecture**, **API development**, and **cloud-native microservices**.
