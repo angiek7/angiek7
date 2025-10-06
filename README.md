@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Angie Karola Tejeda
 
-<!--
-**angiek7/angiek7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Backend Developer | Java | Spring Boot | Microservices | SQL | Docker**
 
-Here are some ideas to get you started:
+I’m a backend engineer with over 4 years building scalable and secure systems for the banking industry.  
+Passionate about **clean architecture**, **API development**, and **cloud-native microservices**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Tech Stack:** `Java 17+` · `Spring Boot` · `PostgreSQL` · `SQL Server` · `Docker` · `Git` · `AWS (basic)`
+
+🚀 **Key Projects**
+- 🏦 banking-microservice-demo – RESTful API with JWT, PostgreSQL & Docker.
+- 📊 finance-data-api – Financial data analytics API (FastAPI & SQL).
+- 💡 digital-banking-mock – Spring Boot backend + Nginx frontend.
+
+📫 **Connect:** https://www.linkedin.com/in/angiekarolatejeda
